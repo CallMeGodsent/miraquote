@@ -1,0 +1,19 @@
+{
+    "name": "miragek/miraquote",
+    "description": "The official MiraQuote package for those who speak PHP as well as love quotes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Miragek\\Miraquote\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Miragek",
+            "email": "miraquotes@miragek.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
